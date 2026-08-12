@@ -1,4 +1,3 @@
-# Phone-explorer
 # Signal — Mobile Phone Explorer
 
 A responsive mobile-phone catalog site: search, filters, sort, detail view,
